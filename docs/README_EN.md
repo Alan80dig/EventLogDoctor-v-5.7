@@ -273,7 +273,7 @@ EventLogDoctor v5.7 is a PowerShell script for comprehensive Windows system diag
 ## 👨‍💻 FOR DEVELOPERS
 
 # PROJECT DEVELOPMENT
-- EventLogDoctor is a complete tool with clearly defined functionality. Core features are stable and thoroughly tested.
+- EventLogDoctor v5.7 is a complete tool with clearly defined functionality. Core features are stable and thoroughly tested.
 
 # PROJECT STRUCTURE:
 - EventLogDoctor v5.7.ps1
