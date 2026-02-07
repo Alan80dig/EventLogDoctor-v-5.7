@@ -142,7 +142,7 @@ EventLogDoctor v5.7 is a PowerShell script for comprehensive Windows system diag
 ## 🤖 AI REPORT ANALYSIS
 
 - WHY AI?
-- Windows logs contain thousands of technical messages. EventLogDoctor structures them into a clear format that AI can analyze - - like an experienced system administrator.
+- Windows logs contain thousands of technical messages. EventLogDoctor v5.7 structures them into a clear format that AI can analyze - - like an experienced system administrator.
 
 ## 📋 EXAMPLE QUESTIONS FOR AI:
 
