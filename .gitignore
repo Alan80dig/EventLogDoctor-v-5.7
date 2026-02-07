@@ -1,0 +1,27 @@
+# Временные файлы PowerShell
+*.tmp
+*.log
+*.cache
+
+# Папка отчётов скрипта (чтобы не коммитить чужие диагностики)
+WindowsDiagnostics/
+DiagnosticReports/
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Резервные копии
+*.bak
+*.backup
+
+# Локальные настройки
+local.config.ps1
+user.config.ps1
