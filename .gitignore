@@ -22,6 +22,11 @@ Desktop.ini
 *.bak
 *.backup
 
+# Игнорировать личные отчёты
+personal_report_*.txt
+local_config.ps1
+
 # Локальные настройки
 local.config.ps1
+
 user.config.ps1
