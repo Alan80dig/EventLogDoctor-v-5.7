@@ -11,7 +11,7 @@
 
 *A comprehensive PowerShell script for system health check and AI-assisted troubleshooting*
 
-[Русская документация](docs/readme_RU.md) | [English Documentation](docs/README_EN.md)
+[Русская документация](docs/README_RU.md) | [English Documentation](docs/README_EN.md)
 
 </div>
 
